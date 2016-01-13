@@ -6,7 +6,7 @@
 	<groupId>com.alex.menu</groupId>
 	<artifactId>demo.app</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<packaging>jar</packaging>
+	<packaging>war</packaging>
 
 	<name>DemoProjectMenu</name>
 	<description>Demo project for Spring Boot</description>
